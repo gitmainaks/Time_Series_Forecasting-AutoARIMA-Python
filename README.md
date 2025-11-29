@@ -132,10 +132,4 @@ This project demonstrates:
 ✔️ Probabilistic forecasting  
 ✔️ Comprehensive evaluation & visualization  
 
-Perfect for anyone learning:  
-📊 *Applied Forecasting*,  
-🔮 *Model Comparison*, or  
-🧠 *Time Series Methodology*.
-
 ---
-
