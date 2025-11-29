@@ -1,4 +1,3 @@
-# Time_Series_Forecasting-AutoARIMA-Python
 # ⏱️ Time Series Forecasting — ARIMA, SARIMA & Exogenous Models  
 
 This repository contains an end-to-end **Time Series Forecasting** workflow implemented in Python using:
@@ -114,8 +113,28 @@ Final comparison between:
 
 ---
 
-## 📂 **Repository Structure**
-
-
 Evaluation Metrics
 <img width="1790" height="1190" alt="output2" src="https://github.com/user-attachments/assets/58a4a59f-c46d-464b-9d7f-503526193037" />
+
+---
+
+## 📝 **Summary**
+
+This project demonstrates:
+
+✔️ Time series preparation  
+✔️ Baseline forecasting  
+✔️ ARIMA/SARIMA modelling  
+✔️ Cross-validation  
+✔️ Forecasting with exogenous variables  
+✔️ Feature engineering using Fourier & date features  
+✔️ Probabilistic forecasting  
+✔️ Comprehensive evaluation & visualization  
+
+Perfect for anyone learning:  
+📊 *Applied Forecasting*,  
+🔮 *Model Comparison*, or  
+🧠 *Time Series Methodology*.
+
+---
+
